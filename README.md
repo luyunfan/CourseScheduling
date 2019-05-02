@@ -1,2 +1,5 @@
 # CourseScheduling
-A course scheduling tool based on Win Form
+一个使用Win Form制作的一个帮助排课的小程序。用于帮助现实中在培训机构工作的朋友安排老师的课程时间。
+
+其他细节有待补充。
+
